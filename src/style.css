@@ -75,3 +75,14 @@ div.card-temperature-now {
   background-color: transparent;
   color: gray;
 }
+#bg-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
