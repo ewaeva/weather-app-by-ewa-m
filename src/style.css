@@ -49,6 +49,8 @@ div.card-temperature-now {
   font-size: 50px;
   color: #fae95f;
   text-align: center;
+  margin-top: -20px;
+  margin-bottom: 0px;
 }
 .card {
   border-radius: 45px;
@@ -85,4 +87,7 @@ div.card-temperature-now {
   bottom: 0;
   left: 0;
   z-index: -1;
+}
+.weather-forecast-temperature-min {
+  color: gray;
 }
